@@ -38,7 +38,7 @@ public class Search_CS : IHttpHandler {
  
     public bool IsReusable {
         get {
-            return false;
+            return false; //why is returning false
         }
     }
 }
