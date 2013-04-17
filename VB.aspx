@@ -20,6 +20,8 @@
         <asp:TextBox ID="txtSearch" runat="server"></asp:TextBox>
     </div>
     <h1>Testing h1</h1>
+    <h3>Testing both files</h3>
+    <p>What will happen?</p>
     </form>
 </body>
 </html>
