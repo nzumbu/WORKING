@@ -20,12 +20,9 @@
         <asp:TextBox ID="txtSearch" runat="server"></asp:TextBox>
     </div>
     <h1>Testing h1</h1>
-<<<<<<< HEAD
     <section>Testing working on the same file at the same time-that's overlapping</section>
-=======
     <h3>Testing both files</h3>
     <p>What will happen?</p>
->>>>>>> c4fb863df26fe6ae88d008dc048ec7fc5ae63ba2
     </form>
 </body>
 </html>
